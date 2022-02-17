@@ -56,12 +56,12 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br>
-   <img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nhathuy1305&custom_title=Nhathuy1305's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-  <br/>
-</details>
+
+<summary>⚡ Recent GitHub Activity</summary>
+<br>
+  <img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nhathuy1305&custom_title=Nhathuy1305's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<br/>
+
 
 ![divider](./images/divider.gif)
 
