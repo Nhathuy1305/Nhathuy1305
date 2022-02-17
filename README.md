@@ -33,21 +33,28 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby)&nbsp;
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
 ![Opera](https://img.shields.io/badge/-Opera-05122A?style=flat&logo=opera)&nbsp;
+![Chrome](https://img.shields.io/badge/-Chrome-05122A?style=flat&logo=googlechrome)&nbsp;
 ![Firefox](https://img.shields.io/badge/-Firefox-05122A?style=flat&logo=firefox)&nbsp;
-![Zalo](https://img.shields.io/badge/-Zalo-05122A?style=flat&logo=zalo)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Clion](https://img.shields.io/badge/-Clion-05122A?style=flat&logo=clion)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse)&nbsp;
+
 ![Facebook](https://img.shields.io/badge/-Facebook-05122A?style=flat&logo=facebook)&nbsp;
 ![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)&nbsp;
+![Linkedin](https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin)&nbsp;
 ![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)&nbsp;
 ![Youtube](https://img.shields.io/badge/-Youtube-05122A?style=flat&logo=youtube)&nbsp;
-![Microsoft OneNote](https://img.shields.io/badge/-Microsoft%20OneNote-05122A?style=flat&logo=microsoftonenote)&nbsp;
 ![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)&nbsp;
 ![Gmail](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail)&nbsp;
+![Microsoft OneNote](https://img.shields.io/badge/-Microsoft%20OneNote-05122A?style=flat&logo=microsoftonenote)&nbsp;
 
 <br>
 
@@ -60,8 +67,8 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
-
-<summary>⚡ Recent GitHub Activity</summary>
+<br><br>
+### ***⚡ Recent Github Activities***
 <br>
   <img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nhathuy1305&custom_title=Nhathuy1305's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 <br/>
