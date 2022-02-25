@@ -17,7 +17,7 @@
 
 ### <img src="./images/stats.gif" width="30px"> ***About Me***
 
-* 🌱 I'm learning ***Javascript*** and ***MySQL*** 😍
+* 🌱 I'm learning ***Javascript*** and ***Java*** 😍
 * 🏆 I usually work with ***Java language***
 * 📫 Ask me anything you want [**here**](https://github.com/Nhathuy1305/Nhathuy1305/issues), If I were alive, I would reply within seconds 😉
 * 😄 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
