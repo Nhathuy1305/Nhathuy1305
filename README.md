@@ -17,7 +17,7 @@
 
 ### <img src="./images/stats.gif" width="30px"> ***About Me***
 
-* 🌱 I'm learning ***Javascript*** and ***Java*** 😍
+* 🌱 I'm learning ***ReactJS*** and ***ExpressJS*** 😍
 * 🏆 I usually work with ***Java language***
 * 📫 Ask me anything you want [**here**](https://github.com/Nhathuy1305/Nhathuy1305/issues), If I were alive, I would reply within seconds 😉
 * 😄 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
@@ -28,14 +28,14 @@
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![MS SQL](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoftsqlserver)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -44,8 +44,7 @@
 ![Chrome](https://img.shields.io/badge/-Chrome-05122A?style=flat&logo=googlechrome)&nbsp;
 ![Firefox](https://img.shields.io/badge/-Firefox-05122A?style=flat&logo=firefox)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Clion](https://img.shields.io/badge/-Clion-05122A?style=flat&logo=clion)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse)&nbsp;
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellijidea)&nbsp;
 
 ![Facebook](https://img.shields.io/badge/-Facebook-05122A?style=flat&logo=facebook)&nbsp;
 ![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)&nbsp;
@@ -54,7 +53,6 @@
 ![Youtube](https://img.shields.io/badge/-Youtube-05122A?style=flat&logo=youtube)&nbsp;
 ![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)&nbsp;
 ![Gmail](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail)&nbsp;
-![Microsoft OneNote](https://img.shields.io/badge/-Microsoft%20OneNote-05122A?style=flat&logo=microsoftonenote)&nbsp;
 
 <br>
 
