@@ -85,6 +85,8 @@
 ### 💻 Software
 
 <p>
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-3333ff?logo=linux&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-cc0066?logo=docker&logoColor=white"></a>
     <a href="#"><img alt="Opera GX" src="https://img.shields.io/badge/Opera%20GX-3DDC84?logo=opera&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
