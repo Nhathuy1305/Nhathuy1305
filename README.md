@@ -79,7 +79,7 @@
     <a href="#"><img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3%20-%23316192.svg?logo=amazons3&logoColor=white"></a>
     <a href="#"><img alt="Amazon CloudWatch" src ="https://img.shields.io/badge/Amazon%20CloudWatch%20-%2300f.svg?logo=amazoncloudwatch&logoColor=white"></a>
     <a href="#"><img alt="Amazon RDS" src="https://img.shields.io/badge/Amazon%20RDS%20-%2343853D.svg?logo=amazonrds&logoColor=white"></a>
-    <a href="#"><img alt="Amazon DynamoDB" src="https://img.shields.io/badge/AWS%20DynamoDB%20-%23F05033.svg?logo=amazondynamodb&logoColor=white"></a>
+    <a href="#"><img alt="Amazon DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB%20-%23F05033.svg?logo=amazondynamodb&logoColor=white"></a>
 </p>
 
 ### 💻 Software
