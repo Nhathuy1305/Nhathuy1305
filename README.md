@@ -1,7 +1,7 @@
 ![alt text](./images/header.svg)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Intern+DevOps+Engineer;Cloud%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Intern+Cloud+Developer;Cloud%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 </p>
 
 <p align="justify">
@@ -20,7 +20,7 @@
 
 ### <img src="./images/stats.gif" width="30px"> ***About Me***
 
-* 🌱 I'm learning ***ReactJS*** and ***AWS Cloud*** 😍
+* 🌱 I'm learning ***Kubernetes*** and ***AWS Cloud*** 😍
 * 🏆 I usually work with ***JavaScript language***
 * 📫 Ask me anything you want [**here**](https://github.com/Nhathuy1305/Nhathuy1305/issues), If I were alive, I would reply within seconds 😉
 * 😄 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
