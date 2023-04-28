@@ -39,6 +39,7 @@
 
 ### 👨‍💻 Programming Languages
 <p>
+    <a href="https://github.com/search?q=user%3ANhatHuy1305+is%3Arepo+language%3Ago"><img alt="Go" src="https://img.shields.io/badge/Go-%23430098.svg?logo=go&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ANhatHuy1305+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ANhatHuy1305+is%3Arepo+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2400599C.svg?logo=c%2B%2B&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ANhatHuy1305+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23007396.svg?logo=javascript&logoColor=white"></a>
