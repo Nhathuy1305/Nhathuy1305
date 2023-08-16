@@ -1,7 +1,7 @@
 ![alt text](./images/header.svg)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DevOps+Engineer+Intern;Cloud%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DevOps+Engineer;Cloud%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 </p>
 
 <p align="justify">
