@@ -6,19 +6,19 @@
 
 <p align="justify">
   <em>
-	  I'm a self-taught <b>programmer</b>, and I absolutely love <b>coding</b>! I find it extremely satisfying to solve complex problems by creating robust and efficient programs <img src="./images/Developer.gif" width="30px">. Not only do I get to exercise my creativity while working on projects, but I also get to learn something new with every challenge that comes my way. Working with code is more than just an <b>occupation</b> for me <img src="./images/Designer.gif" width="30px">; it's an incredibly rewarding experience. The feeling of accomplishment when you finally overcome an obstacle is unparalleled by any other activity, and <b>I wouldn't trade it for the world! </b> ️🥇
+	  I'm a self-taught <b>programmer</b>, and I love <b>coding</b>! Solving complex problems by creating robust and efficient programs is extremely satisfying. Not only do I get to exercise my creativity while working on projects, but I also get to learn something new with every challenge that comes my way. Working with code is more than just an <b>occupation</b> for me ; it's an enriching experience. The feeling of accomplishment when you finally overcome an obstacle is unparalleled by any other activity, and <b>I wouldn't trade it for the world! </b> 
   </em> 
   <br>
 </p>
 <p align="center">
-	<img src="./images/dog_2.gif" width="50" /> <b><i>Quote : "To thine own self, be true!”</i></b> <img src="./images/dog_1.gif" width="50" />
+	<b><i>Quote: "To thine own self, be true!”</i></b>
 </p>
 
 <br>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="./images/profile_dev.svg" />
 
-### <img src="./images/stats.gif" width="30px"> ***About Me***
+### 📊 ***About Me***
 
 * 🌱 I'm learning ***Kubernetes*** and ***Docker*** 😍
 * 🏆 I usually work with ***Python language***
