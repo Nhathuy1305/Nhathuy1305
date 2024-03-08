@@ -124,9 +124,7 @@
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    	<code><a href="https://www.facebook.com/nhhuy.135/"><img width="30px" src="./images/facebook.png" title="Facebook"/></a></code>
 	<code><a href="https://www.linkedin.com/in/nhathuy1305/?fbclid=IwAR16BsR6yG_TIjfz-Z7SkDHCdfK6o7qLhlExchUXPwXWwbtrnge8aKQraEY"><img width="30px" src="./images/linkedin.png" title="Linkedin"/></a></code>
-	<code><a href="https://www.instagram.com/nhhuy_/"><img width="30px" src="./images/instagram.png" title="Instagram"/></a></code>
 	<code><a href="https://twitter.com/Nhathuy1305"><img width="30px" src="./images/twitter.png" title="Twitter"/></a></code>
 	<code><a href="mailto:dangnhathuy.work@gmail.com"><img width="30px" src="./images/gmail.png" title="Gmail"/></a></code>
   </p>
