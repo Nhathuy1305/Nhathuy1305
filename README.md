@@ -1,12 +1,12 @@
 ![alt text](./images/header.svg)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DevOps+Engineer;Cloud%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DevOps+Engineer;Cloud%20Enthusiastic&center=true&width=380&height=45">
 </p>
 
 <p align="justify">
   <em>
-	  I'm a self-taught <b>programmer</b>, and I love <b>coding</b>! Solving complex problems by creating robust and efficient programs is extremely satisfying. Not only do I get to exercise my creativity while working on projects, but I also get to learn something new with every challenge that comes my way. Working with code is more than just an <b>occupation</b> for me ; it's an enriching experience. The feeling of accomplishment when you finally overcome an obstacle is unparalleled by any other activity, and <b>I wouldn't trade it for the world! </b> 
+	  I'm a self-taught <b>programmer</b>, and I love <b>coding</b>! Solving complex problems by creating robust and efficient programs is extremely satisfying. Not only do I get to exercise my creativity while working on projects, but I also get to learn something new with every challenge that comes my way. Working with code is more than just an <b>occupation</b> for me; it's an enriching experience. The feeling of accomplishment when you finally overcome an obstacle is unparalleled by any other activity, and <b>I wouldn't trade it for the world! </b> 
   </em> 
   <br>
 </p>
