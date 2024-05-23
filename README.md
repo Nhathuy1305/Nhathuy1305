@@ -1,8 +1,9 @@
 ![alt text](./images/header.svg)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DevOps+Engineer;Cloud%20Enthusiastic&center=true&width=380&height=45">
-</p>
+<!--<p align="center">
+<!--   <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DevOps+Engineer;Cloud%20Enthusiastic&center=true&width=380&height=45"> <h1 align="center">DevOps Engineer</h1></p> -->
+
+<h1 align="center" style="color: #36BCF7FF">DevOps Engineer | Site Reliability Engineer</h1>
 
 <p align="justify">
   <em>
@@ -20,8 +21,8 @@
 
 ### 📊 ***About Me***
 
-* 🌱 I'm learning ***Kubernetes*** and ***Docker*** 😍
-* 🏆 I usually work with ***Python language***
+* 🌱 I'm learning ***Kubernetes*** and ***ELK Stack*** 😍
+* 🏆 I usually work with ***Java language***
 * 📫 Ask me anything you want [**here**](https://github.com/Nhathuy1305/Nhathuy1305/issues), If I were alive, I would reply within seconds 😉
 * 😄 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
 
