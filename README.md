@@ -97,7 +97,7 @@
 <p>
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=white"></a>
     <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes%20-326CE5.svg?logo=kubernetes&logoColor=white"></a>
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-2496ED.svg?logo=docker&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
     <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins%20-D24939.svg?logo=jenkins&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-F05032.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Ansible" src="https://img.shields.io/badge/Ansible%20-EE0000.svg?logo=ansible&logoColor=white"></a>
