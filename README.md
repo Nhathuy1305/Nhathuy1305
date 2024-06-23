@@ -104,6 +104,8 @@
     <a href="#"><img alt="Ansible" src="https://img.shields.io/badge/Ansible%20-EE0000.svg?logo=ansible&logoColor=white"></a>
     <a href="#"><img alt="Prometheus" src="https://img.shields.io/badge/Prometheus%20-E6522C.svg?logo=prometheus&logoColor=white"></a>
     <a href="#"><img alt="Grafana" src="https://img.shields.io/badge/Grafana%20-F46800.svg?logo=grafana&logoColor=white"></a>
+    <a href="#"><img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch%20-005571.svg?logo=elasticsearch&logoColor=white"></a>
+    <a href="#"><img alt="Logstash" src="https://img.shields.io/badge/Logstash%20-005571.svg?logo=logstash&logoColor=white"></a>
     <a href="#"><img alt="Kibana" src="https://img.shields.io/badge/Kibana%20-005571.svg?logo=kibana&logoColor=white"></a>
     <a href="#"><img alt="Lens" src="https://img.shields.io/badge/Lens%20-3D90CE.svg?logo=lens&logoColor=white"></a>
 </p>
