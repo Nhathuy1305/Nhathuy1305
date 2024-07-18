@@ -109,6 +109,7 @@
     <a href="#"><img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch%20-005571.svg?logo=elasticsearch&logoColor=white"></a>
     <a href="#"><img alt="Logstash" src="https://img.shields.io/badge/Logstash%20-005571.svg?logo=logstash&logoColor=white"></a>
     <a href="#"><img alt="Kibana" src="https://img.shields.io/badge/Kibana%20-005571.svg?logo=kibana&logoColor=white"></a>
+    <a href="#"><img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-006420.svg?logo=apachekafka&logoColor=white"></a>
     <a href="#"><img alt="Lens" src="https://img.shields.io/badge/Lens%20-3D90CE.svg?logo=lens&logoColor=white"></a>
 </p>
 
