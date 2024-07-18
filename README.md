@@ -3,7 +3,7 @@
 <!--<p align="center">
 <!--   <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DevOps+Engineer;Cloud%20Enthusiastic&center=true&width=380&height=45"> <h1 align="center">DevOps Engineer</h1></p> -->
 
-<h1 align="center" style="color: #36BCF7FF">DevOps Engineer | Site Reliability Engineer</h1>
+<h1 align="center" style="color: #36BCF7FF">DevOps Engineer | Software Engineer</h1>
 
 <p align="justify">
   <em>
@@ -57,9 +57,11 @@
 
 ### 🧰 Frameworks
 <p>
-    <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring%20-6DB33F.svg?logo=spring&logoColor=white"></a>
+    <a href="#"><img alt="Spring MVC" src="https://img.shields.io/badge/Spring%20MVC-6DB33F.svg?logo=spring&logoColor=white"></a>
     <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot%20-6DB33F.svg?logo=springboot&logoColor=white"></a>
     <a href="#"><img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security%20-6DB33F.svg?logo=springsecurity&logoColor=white"></a>
+    <a href="#"><img alt="Vaadin" src="https://img.shields.io/badge/Vaadin%20-00B4F0.svg?logo=vaadin&logoColor=white"></a>
+    <a href="#"><img alt="Gin" src="https://img.shields.io/badge/Gin%20-008ECF.svg?logo=gin&logoColor=white"></a>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django%20-092E20.svg?logo=django&logoColor=white"></a>
     <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-5FA04E.svg?logo=node.js&logoColor=white"></a>
 </p>
