@@ -74,7 +74,7 @@
     <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white"></a>
 </p>
 
-### ☁️ Cloud Computing Platforms
+### 🛠 Cloud Computing Platforms
 
 <p>
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?logo=amazonwebservices&logoColor=white"></a>
@@ -94,8 +94,18 @@
     <a href="#"><img alt="Google Cloud Storage" src="https://img.shields.io/badge/Google%20Cloud%20Storage-AECBFA.svg?logo=googlecloudstorage&logoColor=white"></a>
 </p>
 
-### 💻 DevOps Open-source Software
+### 🔗 DevOps Open-source Software
 
+#### 💻 Coding Tools
+<p>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-019733.svg?logo=vim&logoColor=white"></a>
+    <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20IDEA-4c0099.svg?logo=intellijidea&logoColor=white"></a>
+    <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-ff8000.svg?logo=webstorm&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"></a>
+</p>
+
+#### 💻 Open-source
 <p>
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=white"></a>
     <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes%20-326CE5.svg?logo=kubernetes&logoColor=white"></a>
@@ -113,15 +123,7 @@
     <a href="#"><img alt="Lens" src="https://img.shields.io/badge/Lens%20-3D90CE.svg?logo=lens&logoColor=white"></a>
 </p>
 
-### 💻 Coding Tools
-
-<p>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-019733.svg?logo=vim&logoColor=white"></a>
-    <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20IDEA-4c0099.svg?logo=intellijidea&logoColor=white"></a>
-    <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-ff8000.svg?logo=webstorm&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"></a>
-</p>
+### 
 
 <br>
 
