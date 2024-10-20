@@ -48,26 +48,30 @@
 
 ### 📚 Libraries & Frameworks
 <p>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-61DAFB.svg?logo=react&logoColor=black"></a>
+<!--     <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-61DAFB.svg?logo=react&logoColor=black"></a>
     <a href="#"><img alt="D3.js" src="https://img.shields.io/badge/D3.js-F9A03C.svg?logo=d3.js&logoColor=white"></a>
-    <a href="#"><img alt="p5.js" src="https://img.shields.io/badge/p5.js-ED225D.svg?logo=p5dotjs&logoColor=white"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-013243.svg?logo=numpy&logoColor=white"></a>
+    <a href="#"><img alt="p5.js" src="https://img.shields.io/badge/p5.js-ED225D.svg?logo=p5dotjs&logoColor=white"></a> -->
     <a href="#"><img alt="Spring MVC" src="https://img.shields.io/badge/Spring%20MVC-6DB33F.svg?logo=spring&logoColor=white"></a>
     <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot%20-6DB33F.svg?logo=springboot&logoColor=white"></a>
     <a href="#"><img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security%20-6DB33F.svg?logo=springsecurity&logoColor=white"></a>
     <a href="#"><img alt="Vaadin" src="https://img.shields.io/badge/Vaadin%20-00B4F0.svg?logo=vaadin&logoColor=white"></a>
     <a href="#"><img alt="Gin" src="https://img.shields.io/badge/Gin%20-008ECF.svg?logo=gin&logoColor=white"></a>
+    <a href="#"><img alt="Gorilla" src="https://img.shields.io/badge/Gorilla%20-013243.svg?logo=goland&logoColor=white"></a>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django%20-092E20.svg?logo=django&logoColor=white"></a>
     <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-5FA04E.svg?logo=node.js&logoColor=white"></a>
 </p>
 
-### 🗄️ Databases
+### 🗄️ Databases & Caching
 <p>
+    <a href="#"><img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch%20-005571.svg?logo=elasticsearch&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="ScyllaDB" src="https://img.shields.io/badge/ScyllaDB-6CD5E7.svg?logo=scylladb&logoColor=black"></a>
     <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white"></a>
+    <a href="#"><img alt="Ceph" src="https://img.shields.io/badge/Ceph-EF5C55.svg?logo=ceph&logoColor=white"></a>
+    <a href="#"><img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-006420.svg?logo=apachekafka&logoColor=white"></a>
+    <a href="#"><img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?logo=rabbitmq&logoColor=white"></a>
+<!--     <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white"></a> -->
 </p>
 
 ### ☁️ Cloud Computing Services
@@ -85,6 +89,7 @@
 <p>
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?logo=artstation&logoColor=white"></a>
+    <a href="#"><img alt="GNU Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?logo=gnubash&logoColor=white"></a>
     <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-019733.svg?logo=vim&logoColor=white"></a>
     <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20IDEA-4c0099.svg?logo=intellijidea&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"></a>
@@ -98,11 +103,9 @@
     <a href="#"><img alt="Lens" src="https://img.shields.io/badge/Lens%20-3D90CE.svg?logo=lens&logoColor=white"></a>
     <a href="#"><img alt="Prometheus" src="https://img.shields.io/badge/Prometheus%20-E6522C.svg?logo=prometheus&logoColor=white"></a>
     <a href="#"><img alt="Grafana" src="https://img.shields.io/badge/Grafana%20-F46800.svg?logo=grafana&logoColor=white"></a>
-    <a href="#"><img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch%20-005571.svg?logo=elasticsearch&logoColor=white"></a>
     <a href="#"><img alt="Logstash" src="https://img.shields.io/badge/Logstash%20-005571.svg?logo=logstash&logoColor=white"></a>
     <a href="#"><img alt="Kibana" src="https://img.shields.io/badge/Kibana%20-005571.svg?logo=kibana&logoColor=white"></a>
-    <a href="#"><img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-006420.svg?logo=apachekafka&logoColor=white"></a>
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A.svg?logo=selenium&logoColor=white"></a>
+    <a href="#"><img alt="k6" src="https://img.shields.io/badge/k6-7D64FF.svg?logo=k6&logoColor=white"></a>
     <a href="#"><img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689.svg?logo=helm&logoColor=white"></a>
 </p>
 
